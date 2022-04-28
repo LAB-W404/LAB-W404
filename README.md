@@ -5,7 +5,9 @@
 -  You can reach me on Discord at Not LAB-W#8998
 -  My projects im working on are arsonist (not what it sounds like i promise) T.O.M.B. bot and a few hidden projects
 -  Enjoy searching my code!
-        
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAB-W404)](https://github.com/LAB-W404/github-readme-stats)
+
 <!---
 LAB-W404/LAB-W404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
