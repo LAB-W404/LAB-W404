@@ -1,6 +1,6 @@
  GOBLIN!
  
- 'Hello I am LAB-W'
+ Hello I am LAB-W
 -  I’m interested in Discord bots, app design and website design
 -  I’m currently learning Discord.py and reviewing my skills with HTML (cringe)
 -  I’m looking to collaborate on Nothing at the moment
